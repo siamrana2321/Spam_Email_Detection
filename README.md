@@ -9,6 +9,7 @@ A machine learning-powered web application to classify emails as spam or ham. Bu
 # 🛠 Technologies Used:
 - Python, Flask, Scikit-learn, NLTK, Bootstrap
 
+# Images:
 Light Mode :
 ![image](https://github.com/user-attachments/assets/9acbd6fe-0447-4799-9283-3e71343a694e)
 Dark Mode :
