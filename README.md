@@ -2,12 +2,12 @@
 A machine learning-powered web application to classify emails as spam or ham. Built with Python, Flask, and Bootstrap, this project achieves "98% accuracy" and features a "modern UI" with dark mode support.
 
 #✨ Key Features:
-Spam/Ham Classification: Uses Naive Bayes for accurate predictions.
-Modern UI: Responsive design with dark mode toggle.
-Easy Deployment: Docker and Heroku-ready.
+- **Spam/Ham Classification:** Uses Naive Bayes for accurate predictions.
+- **Modern UI:** Responsive design with dark mode toggle.
+- **Easy Deployment:** Docker and Heroku-ready.
 
 #🛠 Technologies Used:
-Python, Flask, Scikit-learn, NLTK, Bootstrap
+- Python, Flask, Scikit-learn, NLTK, Bootstrap
 
 Light Mode :
 ![image](https://github.com/user-attachments/assets/9acbd6fe-0447-4799-9283-3e71343a694e)
