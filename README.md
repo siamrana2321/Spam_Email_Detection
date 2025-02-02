@@ -1,12 +1,12 @@
 # Spam_Email_Detection
 A machine learning-powered web application to classify emails as spam or ham. Built with Python, Flask, and Bootstrap, this project achieves "98% accuracy" and features a "modern UI" with dark mode support.
 
-#✨ Key Features:
+# ✨ Key Features:
 - **Spam/Ham Classification:** Uses Naive Bayes for accurate predictions.
 - **Modern UI:** Responsive design with dark mode toggle.
 - **Easy Deployment:** Docker and Heroku-ready.
 
-#🛠 Technologies Used:
+# 🛠 Technologies Used:
 - Python, Flask, Scikit-learn, NLTK, Bootstrap
 
 Light Mode :
